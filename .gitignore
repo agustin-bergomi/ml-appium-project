@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Appium / Android
+*.apk
+*.apks
+output/
+reports/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Coverage / Reports
+coverage/
+*.html
+*.xml
+
+# Environment files
+.env
